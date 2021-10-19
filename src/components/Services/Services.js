@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 
+
 const Services = () => {
     const [singleService, setSingleService] = useState([])
     useEffect(() => {
@@ -23,7 +24,7 @@ const Services = () => {
                                 <div className="text-area">
                                     <h4>{childsSingle.name}</h4>
                                     <p> {childsSingle.des}</p>
-                                    <Link to={`/allservice/${childsSingle.id}`}>
+                                    <Link to={`/allservice/${childsSingle.shortDes}${childsSingle.pic} `}>
                                         <button className="btn"> View Details</button>
                                     </Link>
 

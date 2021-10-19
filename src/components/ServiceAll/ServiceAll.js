@@ -5,7 +5,7 @@ const ServiceAll = () => {
     const { serviceAll } = useParams();
     return (
         <div>
-            <h2>all services:{serviceAll}</h2>
+            <h2>{serviceAll}</h2>
         </div>
     );
 };
