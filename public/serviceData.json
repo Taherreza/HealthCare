@@ -1,0 +1,241 @@
+[{
+        "id": 1,
+        "name": "Use attention grabbers",
+        "img": "./image/service6.jpg",
+        "age": "5 - 6 YEARS",
+        "des": "Appeal to pation's senses with motivational devices that have varied colors, textures, shapes, movements, smells, or sounds to help them focus",
+        "years active": "1967–2011",
+        "salary": "3490957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+        },
+        "phone": "1-770-736-8031 x56442"
+
+
+    },
+    {
+        "id": 2,
+        "name": "Be playful",
+        "img": "./image/service5.jpg",
+        "age": "4 - 5 YEARS",
+        "des": "Gain pation's attention with a dramatic voice, by putting on a sensational hat, or playing a clapping game. Also, try holding up a secret hand sign",
+        "years active": "1977–present",
+        "salary": "5990957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Victor Plains",
+            "suite": "Suite 879",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771",
+            "geo": {
+                "lat": "-43.9509",
+                "lng": "-34.4618"
+            }
+        },
+        "phone": "010-692-6593 x09125",
+        "website": "anastasia.net",
+        "company": {
+            "name": "Deckow-Crist",
+            "catchPhrase": "Proactive didactic contingency",
+            "bs": "synergize scalable supply-chains"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Describe what you see ",
+        "img": "./image/service4.jpg",
+        "age": "6-7 YEARS",
+        "des": "Get pation's attention by labeling objects or activities, and pointing out similarities and differences. Ask them questions to get them to look at the item ",
+        "years active": "2002–present",
+        "salary": "2390957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Douglas Extension",
+            "suite": "Suite 847",
+            "city": "McKenziehaven",
+            "zipcode": "59590-4157",
+            "geo": {
+                "lat": "-68.6102",
+                "lng": "-47.0653"
+            }
+        },
+        "phone": "1-463-123-4447",
+        "website": "ramiro.info",
+        "company": {
+            "name": "Romaguera-Jacobson",
+            "catchPhrase": "Face to face bifurcated interface",
+            "bs": "e-enable strategic applications"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Be clear and specific",
+        "img": "./image/service3.jpg",
+        "age": "4-5 YEARS",
+        "des": "Pation are more likely to hear your requests and pay attention when it is clear what you want them to do. Keep directions short and simple.",
+        "years active": "1970s—2019",
+        "salary": "1290957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Hoeger Mall",
+            "suite": "Apt. 692",
+            "city": "South Elvis",
+            "zipcode": "53919-4257",
+            "geo": {
+                "lat": "29.4572",
+                "lng": "-164.2990"
+            }
+        },
+        "phone": "493-170-9623 x156",
+        "website": "kale.biz",
+        "company": {
+            "name": "Robel-Corkery",
+            "catchPhrase": "Multi-tiered zero tolerance productivity",
+            "bs": "transition cutting-edge web services"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Give timely tips",
+        "img": "./image/service7.jpg",
+        "age": "6-7 Years",
+        "des": "Allow Pation time to process your requests for their attention and follow the directions given. Consider that afternoons are low energy times for many children",
+        "years active": "2004–present",
+        "salary": "2190957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Skiles Walks",
+            "suite": "Suite 351",
+            "city": "Roscoeview",
+            "zipcode": "33263",
+            "geo": {
+                "lat": "-31.8129",
+                "lng": "62.5342"
+            }
+        },
+        "phone": "(254)954-1289",
+        "website": "demarco.info",
+        "company": {
+            "name": "Keebler LLC",
+            "catchPhrase": "User-centric fault-tolerant solution",
+            "bs": "revolutionize end-to-end systems"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Be aware of temperament",
+        "img": "./image/service8.jpg",
+        "age": "8-9 Years",
+        "des": "Some Pation can be easily distracted and/or exhibit impulsive behavior. When this is the case, speak calmly, use one-step directions, and give them gentle touches",
+        "years active": "1955–present",
+        "salary": "4590957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Norberto Crossing",
+            "suite": "Apt. 950",
+            "city": "South Christy",
+            "zipcode": "23505-1337",
+            "geo": {
+                "lat": "-71.4197",
+                "lng": "71.7478"
+            }
+        },
+        "phone": "1-477-935-8478 x6430",
+        "website": "ola.org",
+        "company": {
+            "name": "Considine-Lockman",
+            "catchPhrase": "Synchronised bottom-line interface",
+            "bs": "e-enable innovative applications"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Look at learning styles",
+        "img": "./image/service5.jpg",
+        "age": "4-5 Years",
+        "des": "Be alert to which attention-getting signals work best for children's learning styles. For visual learners, try blinking the lights or raising your hand. ",
+        "years active": "1992–present",
+        "salary": "4490957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Rex Trail",
+            "suite": "Suite 280",
+            "city": "Howemouth",
+            "zipcode": "58804-1099",
+            "geo": {
+                "lat": "24.8918",
+                "lng": "21.8984"
+            }
+        },
+        "phone": "210.067.6132",
+        "website": "elvis.io",
+        "company": {
+            "name": "Johns Group",
+            "catchPhrase": "Configurable multimedia task-force",
+            "bs": "generate enterprise e-tailers"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Keep groups small",
+        "img": "./image/service1.jpg",
+        "age": "6-7 Years",
+        "des": "If you have difficulty gaining pation's attention, try working with a small group or one-on-one. Giving a child your undivided attention lets him know you care ",
+        "years active": "1983–present",
+        "salary": "2090957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Ellsworth Summit",
+            "suite": "Suite 729",
+            "city": "Aliyaview",
+            "zipcode": "45169",
+            "geo": {
+                "lat": "-14.3990",
+                "lng": "-120.7677"
+            }
+        },
+        "phone": "586.493.6943 x140",
+        "website": "jacynthe.com",
+        "company": {
+            "name": "Abernathy Group",
+            "catchPhrase": "Implemented secondary concept",
+            "bs": "e-enable extensible e-tailers"
+        }
+    },
+    {
+        "id": 9,
+        "name": " Reach out",
+        "img": "./image/service2.jpg",
+        "age": "4-6 Years",
+        "des": "Rather than calling out to a pation across the room, stop what you are doing and go to the child. Position your body at the child's level",
+        "years active": "1988–present",
+        "salary": "9390957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Dayna Park",
+            "suite": "Suite 449",
+            "city": "Bartholomebury",
+            "zipcode": "76495-3109",
+            "geo": {
+                "lat": "24.6463",
+                "lng": "-168.8889"
+            }
+        },
+        "phone": "(775)976-6794 x41206",
+        "website": "conrad.com",
+        "company": {
+            "name": "Yost and Sons",
+            "catchPhrase": "Switchable contextually-based project",
+            "bs": "aggregate real-time technologies"
+        }
+    }
+
+]

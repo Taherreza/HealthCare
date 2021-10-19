@@ -1,0 +1,107 @@
+[{
+        "id": 1,
+        "name": "Use attention grabbers",
+        "img": "./image/service5.jpg",
+        "age": "5 - 6 YEARS",
+        "des": "Appeal to pation's senses with motivational devices that have varied colors, textures, shapes, movements, smells, or sounds to help them focus",
+        "years active": "1967–2011",
+        "salary": "3490957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+        },
+        "phone": "1-770-736-8031 x56442"
+
+
+    },
+    {
+        "id": 2,
+        "name": "Helpful minded  ",
+        "img": "./image/service6.jpg",
+        "age": "4 - 5 YEARS",
+        "des": "Gain pation's attention with a dramatic voice, by putting on a sensational hat, or playing a clapping game. Also, try holding up a secret hand sign",
+        "years active": "1977–present",
+        "salary": "5990957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Victor Plains",
+            "suite": "Suite 879",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771",
+            "geo": {
+                "lat": "-43.9509",
+                "lng": "-34.4618"
+            }
+        },
+        "phone": "010-692-6593 x09125",
+        "website": "anastasia.net",
+        "company": {
+            "name": "Deckow-Crist",
+            "catchPhrase": "Proactive didactic contingency",
+            "bs": "synergize scalable supply-chains"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Describe what you see ",
+        "img": "./image/service8.jpg",
+        "age": "6-7 YEARS",
+        "des": "Get pation's attention by labeling objects or activities, and differences. Ask them questions to get them to look at the item ",
+        "years active": "2002–present",
+        "salary": "2390957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Douglas Extension",
+            "suite": "Suite 847",
+            "city": "McKenziehaven",
+            "zipcode": "59590-4157",
+            "geo": {
+                "lat": "-68.6102",
+                "lng": "-47.0653"
+            }
+        },
+        "phone": "1-463-123-4447",
+        "website": "ramiro.info",
+        "company": {
+            "name": "Romaguera-Jacobson",
+            "catchPhrase": "Face to face bifurcated interface",
+            "bs": "e-enable strategic applications"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Be clear and specific",
+        "img": "./image/service4.jpg",
+        "age": "4-5 YEARS",
+        "des": "Any pation are more likely to hear your requests and pay attention when it is clear what you want them to do. Keep directions short and simple.",
+        "years active": "1970s—2019",
+        "salary": "1290957",
+        "key": "FJHDFJHDF",
+        "address": {
+            "street": "Hoeger Mall",
+            "suite": "Apt. 692",
+            "city": "South Elvis",
+            "zipcode": "53919-4257",
+            "geo": {
+                "lat": "29.4572",
+                "lng": "-164.2990"
+            }
+        },
+        "phone": "493-170-9623 x156",
+        "website": "kale.biz",
+        "company": {
+            "name": "Robel-Corkery",
+            "catchPhrase": "Multi-tiered zero tolerance productivity",
+            "bs": "transition cutting-edge web services"
+        }
+    }
+
+
+]

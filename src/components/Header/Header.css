@@ -1,0 +1,55 @@
+.header {
+    margin-bottom: 50px;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.header a {
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.head-top {
+    margin-top: 25px;
+    margin-left: 600px;
+}
+
+.head-top a {
+    padding: 10px 14px;
+    background-color: rgb(165, 12, 42);
+    border-radius: 8px;
+    color: #ddd;
+}
+
+.head-top a:hover {
+    background-color: rgba(0, 0, 0, 0.76);
+}
+
+.log {
+    margin-left: 00px;
+    margin-top: 25px;
+}
+
+.log a {
+    padding: 10px 14px;
+    background-color: rgba(0, 0, 0, 0.76);
+    border-radius: 8px;
+    color: #fff;
+}
+
+.log a:hover {
+    background-color: rgb(165, 12, 42);
+}
+
+.header-btn {
+    padding: 8px 14px;
+    background-color: rgb(165, 12, 42);
+    border-radius: 8px;
+    color: #fff;
+    border: 0;
+}
+
+.header-btn:hover {
+    background-color: rgba(0, 0, 0, 0.76);
+}

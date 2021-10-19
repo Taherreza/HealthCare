@@ -1,0 +1,16 @@
+.register-form {
+    width: 500px;
+}
+
+.btn-reset {
+    background-color: crimson;
+    color: #ddd;
+    padding: 8px 14px;
+    border: 0;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.btn-reset:hover {
+    background-color: #000;
+}

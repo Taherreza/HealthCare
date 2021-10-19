@@ -1,0 +1,48 @@
+.slide {
+    margin-top: -40px;
+    height: auto;
+}
+
+.medical-sevice-bottom {
+    display: flex;
+    margin-top: 50px;
+}
+
+.service-details {
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: crimson;
+    color: #ddd;
+    font-weight: 600;
+}
+
+.hurry-up {
+    background-color: crimson;
+    padding: 30px;
+    color: #ddd;
+}
+
+.btn {
+    background-color: crimson;
+    color: #ddd;
+    font-weight: bold;
+}
+
+
+/* responsive */
+
+@media only screen and (max-width:688px) {
+    .all-section {
+        margin-left: 30%;
+    }
+    .service {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    ;
+}
+
+@media only screen and (min-width:689px) and (max-width: 991px) {
+    .medical-sevice {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
